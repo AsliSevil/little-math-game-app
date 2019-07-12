@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BrainTrainer</string>
+    <string name="title_activity_game_page">GamePage</string>
+</resources>
